@@ -2,7 +2,7 @@
 
 An interactive web application for exploring and understanding different machine learning models through visual simulations.
 
-[![Explore the app](https://img.shields.io/badge/Visit-mlsim.netlify.app-blue?style=for-the-badge)](https://mlsim.netlify.app/)
+[![ML Model Simulation](https://img.shields.io/badge/ML%20Model%20Simulation-blue?style=for-the-badge)](https://mlsim.netlify.app/)
 
 ## Features
 
