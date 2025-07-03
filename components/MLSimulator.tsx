@@ -15,35 +15,35 @@ const models = [
   {
     id: 'linear-regression',
     name: 'Linear Regression',
-    description: 'Predict continuous values using linear relationships',
+
     icon: Target,
     component: LinearRegressionSimulator
   },
   {
     id: 'neural-network',
     name: 'Neural Network',
-    description: 'Deep learning for complex pattern recognition',
+
     icon: Brain,
     component: NeuralNetworkSimulator
   },
   {
     id: 'decision-tree',
     name: 'Decision Tree',
-    description: 'Make decisions through branching logic',
+
     icon: GitBranch,
     component: DecisionTreeSimulator
   },
   {
     id: 'k-means',
     name: 'K-Means Clustering',
-    description: 'Group similar data points into clusters',
+
     icon: Layers,
     component: KMeansSimulator
   },
   {
     id: 'svm',
     name: 'Support Vector Machine',
-    description: 'Find optimal boundaries for classification',
+
     icon: Zap,
     component: SVMSimulator
   }
