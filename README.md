@@ -2,6 +2,8 @@
 
 An interactive web application for exploring and understanding different machine learning models through visual simulations.
 
+[![Explore the app](https://img.shields.io/badge/Visit-mlsim.netlify.app-blue?style=for-the-badge)](https://mlsim.netlify.app/)
+
 ## Features
 
 - **Linear Regression**: Visualize how slope and intercept affect the regression line
